@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Wreckfest is a demolition derby themed racing game with soft-body damage modeling, sophisticated driving dynamics and in-depth vehicle upgrading, featuring both demolition derbies and more traditional track races. It’s all about fun, breakneck racing and over-the-top crashes.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 | macOS 11.0 or later |
+| **Processor** | Min: Intel® Core™ i3 with 2.8 GHz or AMD equivalent / Rec: Intel® Core™ i5 with 3.0 GHz or AMD equivalent | Intel Core i5 / Apple M1 |
+| **Memory** | 8 GB RAM | 8 GB RAM |
+| **Graphics** | Min: NVIDIA Geforce® GTX™ 560 or AMD Radeon™ HD 7770 / Rec: NVIDIA GeForce® GTX™ 970 or AMD Radeon™ R9 380X | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 32 GB available space | 32 GB available space |
+| **Sound Card** | DirectX®-compatible | DirectX®-compatible |
+| **Additional Notes** | Min: This config will run the game with approx 30 FPS on 108… / Rec: This config will run the game with approx 60 FPS on 108… | This config will run the game with approx 30 FPS on 108… |
 
 ---
 
